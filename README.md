@@ -1,8 +1,10 @@
-# Avaliacao Front-end - Hearthstone CRUD
+# Avaliação Front-end - Hearthstone CRUD
 
 Aplicacao front-end desenvolvida como teste tecnico para gerenciamento de cartas do Hearthstone.
 
 Deploy: https://teste-frontend-wine.vercel.app/
+
+Backend(extra): https://github.com/JanieleCristina006/api_teste_frontend
 
 ## Objetivo
 
