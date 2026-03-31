@@ -2,6 +2,8 @@
 
 Aplicacao front-end desenvolvida como teste tecnico para gerenciamento de cartas do Hearthstone.
 
+Deploy: https://teste-frontend-wine.vercel.app/
+
 ## Objetivo
 
 Construir uma aplicacao web para cadastro, listagem, edicao, exclusao e filtro de cartas, com persistencia local no navegador.
